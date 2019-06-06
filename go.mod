@@ -1,3 +1,3 @@
-module github.com/TutorialEdge/test-package
+module github.com/elliotforbes/test-package
 
 go 1.12
